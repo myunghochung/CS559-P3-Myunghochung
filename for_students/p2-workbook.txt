@@ -1,0 +1,46 @@
+Wisc ID: mchung43
+GitHub ID: myunghochung
+Points = 107
+Grade = 5 out of 5
+
+[X] correct P2 Canvas Assignment submission [none]: 
+[X] clear explanations in p2-workbook.txt [none]: 
+[X] correct P2G Canvas Assignment submission on time [none]: 
+[X] program runs (or seems to run correctly - worth looking at error console) [final-grtown]: 
+[X] frame rate seems OK (not too slow) [final-grtown]: 
+[X] UI is there and seems to work (can lookat and ride) [final-grtown]: 
+[X] highlight list looks OK [final-grtown]: 
+[X] visually distinct from example [final-grtown]: 
+[X] theme makes sense (need explanation) [final-grtown]: 
+[X] cool theme bonus (need explanation) [final-grtown]: 
+[X] objects created for this assignment 1, not trivial, can be identified in world (need explanation) [final-grtown]: hexagon tiles, trees, claymounds, haybales, sheep, mountains, robber, houses, roads, excavators
+[X] objects created for this assignment 2, not trivial, can be identified in world (need explanation) [final-grtown]: hexagon tiles, trees, claymounds, haybales, sheep, mountains, robber, houses, roads, excavators
+[X] 5 more kinds of objects 1, not trivial, can identify (need explanation) [final-grtown]: trees
+[X] 5 more kinds of objects 2, not trivial, can identify (need explanation) [final-grtown]: hay bales
+[X] 5 more kinds of objects 3, not trivial, can identify (need explanation) [final-grtown]: sheep
+[X] 5 more kinds of objects 4, not trivial, can identify (need explanation) [final-grtown]: roads
+[X] 5 more kinds of objects 5, not trivial, can identify (need explanation) [final-grtown]: houses
+[X] has building, natural, vehicle (need explanation) [final-grtown]: building: house ; natural: mountain and trees ; vehicle: excavator
+[ ] loaded model (need explanation) [final-grtown]: 
+[ ] shader: identifiable and not trivial (need explanation) [final-grtown]: 
+[X] three behaviors you made 1, not trivial, can be identified in scene (need explanation) [final-grtown]: sheep eat periodically and randomly
+[X] three behaviors you made 2, not trivial, can be identified in scene (need explanation) [final-grtown]: excavator moves its arms to scoop clay
+[X] three behaviors you made 3, not trivial, can be identified in scene (need explanation) [final-grtown]: robber turns and jumps around to random tiles
+[X] at least one object is rideable / followable [final-grtown]: robber
+[X] behavior that is not simple (need explanation) [final-grtown]: excavator arm movement has multiple moving parts dependent on each other, robber's movement is random and travels in an arc to a new tile
+[X] articulated figure (need explanation) [final-grtown]: excavator with multiple arms and pivots
+[X] advanced thing 1: has a challenge type (need the name and number from the list) [final-grtown]: 2: complex behavior. Robber chooses random tile, turns towards it, "jumps" and travels in an arc to that tile and repeats
+[X] advanced thing 1: works properly, can be identified in the town (need explanation) [final-grtown]: see robber
+[ ] advanced thing 1: points above and beyond (need explanation) [final-grtown]: 
+[X] advanced thing 2: has a challenge type (need the name and number from the list) [final-grtown]: 4: particle system. Every time the robber lands, particles fly up in the air in arm motion. 
+[X] advanced thing 2: works properly, can be identified in the town (need explanation) [final-grtown]: see when robber lands
+[X] advanced thing 2: points above and beyond (need explanation) [final-grtown]: particles follow gravity and fall quadratically
+[X] advanced thing 3: has a challenge type (need the name and number from the list) [final-grtown]: 10: curved surface. Mountains use displacement map using a texture with plane geometry to be "curved"
+[X] advanced thing 3: works properly, can be identified in the town (need explanation) [final-grtown]: see mountains
+[ ] advanced thing 3: points above and beyond (need explanation) [final-grtown]: 
+[X] advanced thing 4: has a challenge type (need the name and number from the list) [final-grtown]: 11: procedurally generated geometry. Tiles are procedurally generated using indices, trees are generated procedurally randomly within tile (and same for sheep, haybales, and clay mound where location within tile is random)
+[X] advanced thing 4: works properly, can be identified in the town (need explanation) [final-grtown]: see tiles, trees, sheep, haybales, clay mound
+[X] advanced thing 4: points above and beyond (need explanation) [final-grtown]: multiple procedurally generated objects
+[ ] advanced thing 5: has a challenge type (need the name and number from the list) [final-grtown]: 
+[ ] advanced thing 5: works properly, can be identified in the town (need explanation) [final-grtown]: 
+[ ] advanced thing 5: points above and beyond (need explanation) [final-grtown]: 
